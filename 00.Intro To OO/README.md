@@ -20,7 +20,6 @@
 - **superclass** class being inherited from also called (parent)
 - **subclass** class is doing inheritance also called (child)
 - subclass gets all behaviors or the super calss automatically and can `override` it and also it have it's own behaviors
-- 
 
 ***Example*** : in this example, class `Airplan` is *superclass* and `jet` is *subclass* and `Main` is the main class to run program
 `````java
