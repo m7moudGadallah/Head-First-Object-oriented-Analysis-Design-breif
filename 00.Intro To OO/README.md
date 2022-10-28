@@ -7,6 +7,7 @@
 
 ---
 <img align = "right" src="../pic/Class_Diagram.png" width = "300">
+
 ## UML
 - Unified Modeling Language
 - it is a language used to communicate just the details about your code and application's structure that other devlopers and customers need, without getting details that aren't neccessary
