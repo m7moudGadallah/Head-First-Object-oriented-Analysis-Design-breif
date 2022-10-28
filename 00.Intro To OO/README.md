@@ -1,17 +1,17 @@
 # Intro To OO
-##Content
+## Content
 - ***UML***
 - ***Inheritance***
 - ***Polymorphism***
 - ***Encapsulation***
 ## UML
 
-<img align="right" src="../pic/Class_Diagram.png" width="300">
 
 - Unified Modeling Language
 - it is a language used to communicate just the details about your code and application's structure that other devlopers and customers need, without getting details that aren't neccessary
 - Class Digram gives you an overview of our class, including it's methods and variables
 
+<p align="center"><img src="../pic/Class_Diagram.png"></p>
 
 ---
 ## Inheritance
@@ -98,10 +98,10 @@ public class Main
 }
 `````
 >output:
-6752
-13504
-27008
-1696
+>6752
+>13504
+>27008
+>1696
 
 
 
@@ -156,4 +156,4 @@ public class Main
 }
 ```
 >Ouput:
-10
+>10
