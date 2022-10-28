@@ -11,7 +11,7 @@
 - it is a language used to communicate just the details about your code and application's structure that other devlopers and customers need, without getting details that aren't neccessary
 - Class Digram gives you an overview of our class, including it's methods and variables
 
-<p align="center"><img src="../pic/Class_Diagram.png"></p>
+<p align="center"><img src="../pic/Class_Diagram.png" width = "400"></p>
 
 ---
 ## Inheritance
@@ -97,11 +97,11 @@ public class Main
     }
 }
 `````
->output:
->6752
->13504
->27008
->1696
+> output:
+> 6752
+> 13504
+> 27008
+> 1696
 
 
 
