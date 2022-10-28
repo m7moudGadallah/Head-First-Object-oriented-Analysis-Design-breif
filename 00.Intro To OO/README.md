@@ -1,17 +1,17 @@
 # Intro To OO
 ## Content
-- ***UML***
-- ***Inheritance***
-- ***Polymorphism***
-- ***Encapsulation***
+- [***UML***](https://github.com/m7moudGadallah/Head-First-Object-oriented-Analysis-Design-breif/tree/main/00.Intro%20To%20OO#uml)
+- [***Inheritance***](https://github.com/m7moudGadallah/Head-First-Object-oriented-Analysis-Design-breif/tree/main/00.Intro%20To%20OO#inheritance)
+- [***Polymorphism***](https://github.com/m7moudGadallah/Head-First-Object-oriented-Analysis-Design-breif/tree/main/00.Intro%20To%20OO#polymorphism)
+- [***Encapsulation***](https://github.com/m7moudGadallah/Head-First-Object-oriented-Analysis-Design-breif/tree/main/00.Intro%20To%20OO#encapsulation)
+
+---
+<img align = "right" src="../pic/Class_Diagram.png" width = "300">
 ## UML
-
-
 - Unified Modeling Language
 - it is a language used to communicate just the details about your code and application's structure that other devlopers and customers need, without getting details that aren't neccessary
 - Class Digram gives you an overview of our class, including it's methods and variables
 
-<p align="center"><img src="../pic/Class_Diagram.png" width = "400"></p>
 
 ---
 ## Inheritance
@@ -98,10 +98,10 @@ public class Main
 }
 `````
 > output:
-> 6752
-> 13504
-> 27008
-> 1696
+6752
+13504
+27008
+1696
 
 
 
