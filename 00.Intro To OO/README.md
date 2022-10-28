@@ -113,7 +113,7 @@ public class Main
   - ***Static*** "Overloading" : this type in Compile-time
   - ***Dynamic*** "Overriding" : this type in run-time
   
->as a Example of overide go back to previous example
+>as an Example of overide go back to previous example
 so you find that class jet override of  `setSpeed` function
 
 ---
