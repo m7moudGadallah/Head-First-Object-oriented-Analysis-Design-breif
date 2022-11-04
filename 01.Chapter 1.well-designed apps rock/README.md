@@ -26,23 +26,14 @@ more than on thing**
 
 ## Objects
 **1. Objects should do what their names indicate**
-If an object is named Jet, it should probably takeOff()
-and land(), but it shouldn’t takeTicket()—that’s the job
-of another object, and doesn’t belong in Jet.
+If an object is named Jet, it should probably takeOff() and land(), but it shouldn’t takeTicket()—that’s the job of another object, and doesn’t belong in Jet.
 
 **2. Each object should represent a single concept**
-You don’t want objects serving double or triple duty.
-Avoid a Duck object that represents a real quacking
-duck, a yellow plastic duck, and someone dropping
-their head down to avoid getting hit by a baseball.
+You don’t want objects serving double or triple duty. Avoid a Duck object that represents a real quacking duck, a yellow plastic duck, and someone dropping their head down to avoid getting hit by a baseball.
 
 **3. Unused properties are a dead giveaway**
-If you’ve got an object that is being used with no-value
-or null properties often, you’ve probably got an object
-doing more than one job. If you rarely have values for a
-certain property, why is that property part of the object?
-Would there be a better object to use with just a subset
-of those properties? **in this case we use [Encapsulation](https://github.com/m7moudGadallah/Head-First-Object-oriented-Analysis-Design-breif/tree/main/01.Chapter%201.well-designed%20apps%20rock#encapsulation)**
+If you’ve got an object that is being used with no-value or null properties often, you’ve probably got an object doing more than one job. If you rarely have values for a certain property, why is that property part of the object?
+Would there be a better object to use with just a subset of those properties? **in this case we use [Encapsulation](https://github.com/m7moudGadallah/Head-First-Object-oriented-Analysis-Design-breif/tree/main/01.Chapter%201.well-designed%20apps%20rock#encapsulation)**
 
 </p>
 
@@ -60,4 +51,20 @@ hide its data and methods from other objects.
 
 ***so if we have duplicate code we use Encapsulation***
 
+</p>
+
+<p>
+
+## Delegation
+- Delegation means an object asked another object to perform a certain task instead of doing that task directly
+- Delegation lets each object worry about itself. This means ***your objects are more independent of each other, or more lossely coupled***
+
+
+**what is the meaning of lossely coupled**
+- means each object in your application have a specific job to do, and they do only that job.
+- Lossely coupled objects can be taken from one app and easily reused in another, *because they're not tightly tied to other object's code*
+
+***so we use delegation to make our objects independent of each other***
+
+as Example of  that `search` method in [Inventory class](GuitarInventory/Program/myUtil/Inventory.java) delegate with `matches` function in [GuitarSpec class](GuitarInventory/Program/myUtil/GuitarSpec.java)
 </p>
