@@ -15,7 +15,7 @@ more than on thing**
 <p>
 
 > ***Hint***
-> if we have a lot of strings attributes in our class may be we face the problem of Sting comparisons so we can use enumerated types `enum` as in our [**GuitarInventory**](GuitarInventory/Program/) program we use `enum` with `builder` and `Type` and `Wood`
+> if we have a lot of strings attributes in our class may be we face the problem of Sting comparisons so we can use enumerated types `enum` as in our [**GuitarInventory**](GuitarInventory/Program/) program we use `enum` with [Builder](GuitarInventory/Program/myUtil/Builder.java) and [Type](GuitarInventory/Program/myUtil/Type.java) and [Wood](GuitarInventory/Program/myUtil/Wood.java)
 
 **so what is enum?**
 - is type (special class) that repesent a group of constants
