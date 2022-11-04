@@ -83,4 +83,5 @@ Encapsulation
 
 Design Pattern
 : Is about reuse and making sure you're not trying to solve a problem that someone else has already figured out.
+
 </p>
