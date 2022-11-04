@@ -14,7 +14,7 @@ more than on thing**
 
 <p>
 
-> ***Hint***
+> ***💡Hint***
 > if we have a lot of strings attributes in our class may be we face the problem of Sting comparisons so we can use enumerated types `enum` as in our [**GuitarInventory**](GuitarInventory/Program/) program we use `enum` with [Builder](GuitarInventory/Program/myUtil/Builder.java) and [Type](GuitarInventory/Program/myUtil/Type.java) and [Wood](GuitarInventory/Program/myUtil/Wood.java)
 
 **so what is enum?**
@@ -55,7 +55,7 @@ of those properties? **in this case we use [Encapsulation](https://github.com/m7
 parts that have a clear boundary that allows an object to
 hide its data and methods from other objects.
 
-**Hint**
+**💡Hint**
 - Encapsulation is not only to make your calss attributes hidden and use getter and setters funtion *Nope* it's also a way to ***avoid duplicate code*** as Example for that [GuitarSpec class](GuitarInventory/Program/myUtil/GuitarSpec.java) we make this class to Encasulate all guitar specs that user intersed about it and `reference` it in [Guitar class](GuitarInventory/Program/myUtil/Guitar.java) so now we can use `GuitarSpec` object with serach tool effiectively
 
 ***so if we have duplicate code we use Encapsulation***
