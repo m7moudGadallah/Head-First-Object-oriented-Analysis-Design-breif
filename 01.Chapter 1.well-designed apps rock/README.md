@@ -7,4 +7,4 @@
 more than on thing**
 
 - great software must staisfy the customer. the software must do what the customer wnats it to do
-- gret software is well-designed, well-coded, and easy to maintain, reuse, and extend
+- great software is well-designed, well-coded, and easy to maintain, reuse, and extend
