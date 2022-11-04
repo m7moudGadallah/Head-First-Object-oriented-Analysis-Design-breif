@@ -42,7 +42,7 @@ or null properties often, you’ve probably got an object
 doing more than one job. If you rarely have values for a
 certain property, why is that property part of the object?
 Would there be a better object to use with just a subset
-of those properties? [**in this case we use Encapsulation**]
+of those properties? [**in this case we use Encapsulation**](https://github.com/m7moudGadallah/Head-First-Object-oriented-Analysis-Design-breif/tree/main/01.Chapter%201.well-designed%20apps%20rock#encapsulation)
 
 </p>
 
