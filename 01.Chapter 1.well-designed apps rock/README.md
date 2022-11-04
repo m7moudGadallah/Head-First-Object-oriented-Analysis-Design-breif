@@ -1,7 +1,7 @@
 # 1. well-designed apps rock
 
 ## Great Software
-<img align="right" width=250 src="pic/greatSoftware.png">
+<img align="right" width=300 src="pic/greatSoftware.png">
 
 **Great software is...
 more than on thing**
