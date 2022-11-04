@@ -73,14 +73,14 @@ as Example of  that `search` method in [Inventory class](GuitarInventory/Program
 
 ## Important Definitions
 **Functionality**
-Way to make you customer happy by make your applicatoin satisfying their requirments, No matter how well-designed your application is.
+: Way to make you customer happy by make your applicatoin satisfying their requirments, No matter how well-designed your application is.
 
 **Flexibility**
-Way to make your software can change and grow without constant rework and keep you application from being fragile (robust).
+: Way to make your software can change and grow without constant rework and keep you application from being fragile (robust).
 
 **Encapsulation**
-Way to keep the parts of your code that stay the same sparate from the parts that change then it' really easy to make changes to you code without breaking everything.
+: Way to keep the parts of your code that stay the same sparate from the parts that change then it' really easy to make changes to you code without breaking everything.
 
 **Design Pattern**
-Is about reuse and making sure you're not trying to solve a problem that someone else has already figured out.
+: Is about reuse and making sure you're not trying to solve a problem that someone else has already figured out.
 </p>
